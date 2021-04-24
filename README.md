@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Melissa Arango 👋
+
+![image](https://user-images.githubusercontent.com/68023969/115975550-5bf6a680-a52b-11eb-951a-a629ff5450bb.png)
 
 <!--
 **emae1712/emae1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
