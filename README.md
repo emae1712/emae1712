@@ -21,6 +21,9 @@ Interests&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 
+- 🎓 I graduated from Laboratoria as a Front-end developer
+- 🎓 I graduated from San Marcos University Geographical Engineering Faculty
+- 
 - 🌱 I’m currently learning Vue and Python
 
  #### Contact
