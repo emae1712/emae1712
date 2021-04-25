@@ -47,16 +47,16 @@ Interests&nbsp;&nbsp;
  <details>
  <summary><b>🗂️ Highlight Projects</b></summary>
 <a href="https://github.com/emae1712/Schedule-RB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=Schedule-RB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=Schedule-RB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Schedule-RB - Code Challenge" />
 </a>
 <a href="https://emae1712.github.io/LIM013-fe-social-network">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=LIM013-fe-social-network&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=LIM013-fe-social-network&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Travelin - Social Network" />
 </a>
 <a href="https://emae1712.github.io/LIM013-data-lovers/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=LIM013-data-lovers&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=LIM013-data-lovers&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Pokedex - Data" />
 </a>
 <a href="https://emae1712.github.io/emae--md-links/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=emae--md-links&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=emae--md-links&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="md-links - Javascript library" />
 </a>
  </details>
  
