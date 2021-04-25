@@ -12,6 +12,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase&style=social)&nbsp;&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-black?logo=jest&style=social)&nbsp;&nbsp;
+
+
+Interests&nbsp;&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-black?logo=figma&style=social)&nbsp;&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-black?logo=sass&style=social)&nbsp;&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-black?logo=vue&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 
 👋 Hi! I am Melissa, a graduate of Geographical Engineering from the Universidad Nacional Mayor de San Marcos, who interested in technology, I decided to specialize as a Front end Web Developer, to create and optimize interactive websites that are functional and intuitive.
@@ -28,8 +35,8 @@ My work experience using cartographic tools, preparing maps or developing applic
   
  #### Contact
   
- * [Linkedin](https://www.linkedin.com/in/emae1712/)
- * Email: melissa.aechegaray@gmail.com
+ * ![](https://img.shields.io/badge/--black?logo=linkedin&style=social)&nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/emae1712/)
+ * ![](https://img.shields.io/badge/--black?logo=gmail&style=social) melissa.aechegaray@gmail.com
  * [Portafolio](https://portafolio-melissa-arango.web.app/)
  </td>
 <td valign="top" width="50%">
