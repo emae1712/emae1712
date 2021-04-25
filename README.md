@@ -21,13 +21,6 @@ Interests&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 
-👋 Hi! I am Melissa, a graduate of Geographical Engineering from the Universidad Nacional Mayor de San Marcos, who interested in technology, I decided to specialize as a Front end Web Developer, to create and optimize interactive websites that are functional and intuitive.
-
-🎓 During my formative stage in the tech world, fascinated by programming and the solutions it can provide, I decided to give life to prototypes using HTML, CSS and JavaScript mainly, through projects focused on the user's need. I also have knowledge of tools such as React JS, Sass, collaborative work in Git and Github, responsive web development, package management with NPM, database in Firebase and testing in Jest.
-
-My work experience using cartographic tools, preparing maps or developing applications in GIS platforms on the Web, aroused my curiosity in the technological world. I am passionate about everything related to programming and web development, I feel that starting on the client side is a good strategy to understand the logic of the code and at the same time visualize its capacity.
-
-🎯 My goal is to develop my skills as a Front end in a technology company that allows me to apply what I have learned and continue to grow both personally and professionally, I want to provide original and efficient web solutions, based on the needs of the user and the objective of the company.
 
 <table width="800px">
 <tr>
@@ -54,7 +47,7 @@ My work experience using cartographic tools, preparing maps or developing applic
 <tr>
 <td valign="top" width="50%">
   
- #### Achievements
+ #### 🎖️ Achievements
   
  * <a href='https://www.credential.net/8f8daa35-60fd-4e7a-8e24-e7d89d939804' target='_blank'>Innovation Week - People's Choice Award</a> - Hackathon (Laboratoria)
  * Instructor in II Course-Training Workshop for the Implementation of the Integrated Monitoring System of the Historic Sanctuary of Machupicchu (WCS Peru).
