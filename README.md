@@ -23,8 +23,8 @@ Interests&nbsp;&nbsp;
 
 - 🎓 I graduated from Laboratoria as a Front-end developer
 - 🎓 I graduated from San Marcos University Geographical Engineering Faculty
-- 
 - 🌱 I’m currently learning Vue and Python
+- 😄 I like to travel and take photos even if it is not very good.
 
  #### Contact
   
