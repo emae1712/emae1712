@@ -23,10 +23,10 @@ My work experience using cartographic tools, preparing maps or developing applic
 <td valign="top" width="50%">
 
 #### Main projects
-* <a href='https://github.com/emae1712/Schedule-RB' target='_blank'>Builder Schedule (Code Challenge)</a> - React JS, JSON, SCSS
-* <a href='https://github.com/emae1712/LIM013-fe-social-network' target='_blank'>Travel In (Social Network)</a> - Vanilla Javascript, Firebase, testing in Jest
-* <a href='https://github.com/emae1712/LIM013-data-lovers' target='_blank'>Pokedex (Data lovers)</a> - Vanilla Javascript, testing in Jest
-* <a href='https://www.npmjs.com/package/emae--md-links' target='_blank'>md-links (Javascript library)</a> - NPM, Node JS, Javascript, unit and asynchronous testing
+* <a href='https://github.com/emae1712/Schedule-RB/blob/master/README.md' target='_blank'>Builder Schedule (Code Challenge)</a> - React JS, JSON, SCSS
+* <a href='https://emae1712.github.io/LIM013-fe-social-network/' target='_blank'>Travel In (Social Network)</a> - Vanilla Javascript, Firebase, testing in Jest
+* <a href='https://emae1712.github.io/LIM013-data-lovers/' target='_blank'>Pokedex (Data lovers)</a> - Vanilla Javascript, testing in Jest
+* <a href='https://emae1712.github.io/emae--md-links/' target='_blank'>md-links (Javascript library)</a> - NPM, Node JS, Javascript, unit and asynchronous testing
 
 </td>
 </tr>
