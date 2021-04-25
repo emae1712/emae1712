@@ -21,6 +21,8 @@ Interests&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 
+- 🌱 I’m currently learning Vue and Python
+
  #### Contact
   
  * ![](https://img.shields.io/badge/--black?logo=linkedin&style=social)&nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/emae1712/)
@@ -33,12 +35,9 @@ Interests&nbsp;&nbsp;
  * Instructor in II Course-Training Workshop for the Implementation of the Integrated Monitoring System of the Historic Sanctuary of Machupicchu (WCS Peru).
  * Professor of Management Diploma of Biodiversity - Topic “Geographic Information Systems as a management tool for the biodiversity" (UNMSM)
  
- #### 📈 GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=emae1712&amp;show_icons=true&theme=gotham" alt="GitHub Stats"></p>
- 
-
-#### 🗂️ Highlight Projects
-
+ #### 
+<details>
+ <summary><h2>🗂️ Highlight Projects</h2></summary>
 <a href="https://github.com/emae1712/Schedule-RB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=Schedule-RB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
@@ -51,6 +50,11 @@ Interests&nbsp;&nbsp;
 <a href="https://emae1712.github.io/emae--md-links/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=emae--md-links&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
+ </details>
+
+#### 📈 GitHub Stats
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=emae1712&amp;show_icons=true&theme=gotham" alt="GitHub Stats"></p>
+ 
 
 <!--
 **emae1712/emae1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
