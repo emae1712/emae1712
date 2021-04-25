@@ -29,11 +29,14 @@ Interests&nbsp;&nbsp;
  * ![](https://img.shields.io/badge/--black?logo=gmail&style=social) melissa.aechegaray@gmail.com
  * [Portafolio](https://portafolio-melissa-arango.web.app/)
  
- #### 🎖️ Achievements
-  
+
+  <details>
+ <summary><b>🎖️ Achievements</b></summary>
+ 
  * <a href='https://www.credential.net/8f8daa35-60fd-4e7a-8e24-e7d89d939804' target='_blank'>Innovation Week - People's Choice Award</a> - Hackathon (Laboratoria)
  * Instructor in II Course-Training Workshop for the Implementation of the Integrated Monitoring System of the Historic Sanctuary of Machupicchu (WCS Peru).
  * Professor of Management Diploma of Biodiversity - Topic “Geographic Information Systems as a management tool for the biodiversity" (UNMSM)
+ </details>
  
  <details>
  <summary><b>🗂️ Highlight Projects</b></summary>
