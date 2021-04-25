@@ -22,7 +22,7 @@ Interests&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 
 
-<table width="800px">
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
   
