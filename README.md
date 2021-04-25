@@ -49,11 +49,11 @@ Interests&nbsp;&nbsp;
 <a href="https://emae1712.github.io/emae--md-links/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=emae--md-links&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
- </details>
-
-#### 📈 GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=emae1712&amp;show_icons=true&theme=gotham" alt="GitHub Stats"></p>
  
+<details>
+ <summary><b>📈 GitHub Stats</b></summary>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=emae1712&amp;show_icons=true&theme=gotham" alt="GitHub Stats"></p>
+ </details>
 
 <!--
 **emae1712/emae1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
