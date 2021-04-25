@@ -14,13 +14,13 @@
  </td>
 <td valign="top" width="50%">
 
-#### Projects
-
+#### 📈 GitHub Stats
+<p><img src="https://github-readme-stats.vercel.app/api?username=emae1712&amp;show_icons=true&theme=gotham" alt="GitHub Stats"></p>
 </td>
 </tr>
+</table>
+<h2></h2>
 
-<h2>📈 GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=emae1712&amp;show_icons=true&theme=gotham" alt="GitHub Stats"></p>
 
 <!--
 **emae1712/emae1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
