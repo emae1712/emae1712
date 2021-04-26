@@ -1,7 +1,7 @@
 ### Hi there, I'm Melissa Arango 👋
 <p align="center">
   <a title="Brand" target="_blank" href= "https://github.com/emae1712">
-    <img width="800px" src="https://user-images.githubusercontent.com/68023969/115975550-5bf6a680-a52b-11eb-951a-a629ff5450bb.png" alt="Travel-In">
+    <img width="800px" src="https://user-images.githubusercontent.com/68023969/116092574-88b1d780-a66b-11eb-8d55-717b0a148824.JPG" alt="Logo">
   </a>
 </p>
 
