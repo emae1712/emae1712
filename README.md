@@ -23,10 +23,11 @@ Interests&nbsp;&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-black?logo=vue&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 
 - 🎓 I graduated from Laboratoria as a Front-end developer
 - 🎓 I graduated from San Marcos University Geographical Engineering Faculty
-- 🌱 I’m currently learning Vue and Python
+- 🌱 I’m currently learning Vue, Java and Python
 - 😄 I like to travel and take photos even if it is not very good.
 
  #### Contact
