@@ -47,6 +47,12 @@ Interests&nbsp;&nbsp;
  
  <details>
  <summary><b>🗂️ Highlight Projects</b></summary>
+<a href="https://github.com/emae1712/final-project-globant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=final-project-globant&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CRUD library - Java project" />
+</a>
+ <a href="https://github.com/emae1712/CodeInPlace2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=CodeInPlace2021&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Who is that Pokemon? - Python project" />
+</a>
 <a href="https://github.com/emae1712/Schedule-RB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=Schedule-RB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Schedule-RB - Code Challenge" />
 </a>
