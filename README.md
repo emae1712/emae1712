@@ -47,6 +47,9 @@ Interests&nbsp;&nbsp;
  
  <details>
  <summary><b>🗂️ Highlight Projects</b></summary>
+<a href="https://github.com/emae1712/grupo-2-pineapple-supermarket-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=grupo-2-pineapple-supermarket-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Pineapple supermarket - Java/Angular" />
+</a>
 <a href="https://github.com/emae1712/final-project-globant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emae1712&repo=final-project-globant&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CRUD library - Java project" />
 </a>
