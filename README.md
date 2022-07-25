@@ -1,4 +1,4 @@
-### Hi there, I'm Melissa Arango 👋
+### Hi there, I'm Melissa 👋
 <p align="center">
   <a title="Brand" target="_blank" href= "https://github.com/emae1712">
     <img width="800px" src="https://user-images.githubusercontent.com/68023969/116092574-88b1d780-a66b-11eb-8d55-717b0a148824.JPG" alt="Logo">
