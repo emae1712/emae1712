@@ -33,7 +33,6 @@ Interests&nbsp;&nbsp;
  #### Contact
   
  * ![](https://img.shields.io/badge/--black?logo=linkedin&style=social)&nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/emae1712/)
- * ![](https://img.shields.io/badge/--black?logo=gmail&style=social) melissa.aechegaray@gmail.com
  * [Portafolio](https://portafolio-melissa-arango.web.app/)
  
 
